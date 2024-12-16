@@ -40,3 +40,23 @@ nav ul li a:hover {
     color: #ff9900; /* Change color when hovering */
 }
 
+        /* Body and overall page styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 10;
+            padding: 0;
+          }
+         
+          /* Dividing line between main content and footer */
+          .divider {
+            border-top: 2px solid #333; /* Creates a dividing line */
+            margin: 0;
+          }
+      
+          /* Footer styling */
+          footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+          }
